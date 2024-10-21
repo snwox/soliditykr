@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"LaTeX with hyperref","producer":"xdvipdfmx (20220710)","creationdate":"D:20241021143704-00'00'","moddate":"","trapped":"","fileName":"resume (5).pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
